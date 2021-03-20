@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brew on </title>
+    <link>/tags/brew/</link>
+    <description>Recent content in Brew on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Mar 2021 20:09:00 +0900</lastBuildDate><atom:link href="/tags/brew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Solve Killed Git Error in Homebrew Mac</title>
+      <link>/post/how-to-solve-killed-git-error-in-homebrew-mac/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
+      
+      <guid>/post/how-to-solve-killed-git-error-in-homebrew-mac/</guid>
+      <description>Error occured during Git installation without xcode $ git zsh: killed git What I have was only brew. Didn&amp;rsquo;t want to install xcode
+Check $ brew config HOMEBREW_VERSION: &amp;gt;=2.5.0 (shallow or no git repository) ORIGIN: (none) HEAD: (none) Last commit: never Core tap ORIGIN: (none) Core tap HEAD: (none) Core tap last commit: never Core tap branch: (none) HOMEBREW_PREFIX: /opt/homebrew HOMEBREW_CASK_OPTS: [] HOMEBREW_MAKE_JOBS: 8 Homebrew Ruby: 2.6.3 =&amp;gt; /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby CPU: octa-core 64-bit arm_firestorm_icestorm Clang: 12.</description>
+    </item>
+    
+  </channel>
+</rss>

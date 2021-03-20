@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C language on </title>
+    <link>/tags/c-language/</link>
+    <description>Recent content in C language on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 15:40:32 +0900</lastBuildDate><atom:link href="/tags/c-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compound Assignment Operators in 3 Nums</title>
+      <link>/post/compound-assignment-operators-in-3-nums/</link>
+      <pubDate>Fri, 09 Oct 2020 15:40:32 +0900</pubDate>
+      
+      <guid>/post/compound-assignment-operators-in-3-nums/</guid>
+      <description>i += j += k;
+This assignment seems tricky. but Knking&amp;rsquo;s book say, there is a tip.
+i += (j += k);
+so, j+=k becomes (j=j+k), hence operated first. at here, K never has any operating without only its initialization. if k = 3; k becomes just 3.
+j becomes j+3.
+and,
+i = i+ (j+3).
+That&amp;rsquo;s it!</description>
+    </item>
+    
+  </channel>
+</rss>

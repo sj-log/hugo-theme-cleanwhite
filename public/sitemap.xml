@@ -2,140 +2,239 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhaohuabing.com/post/readme/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>/tags/brew/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/post/</loc>
-    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <loc>/tags/coding/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/categories/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/tags/git/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/istio/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/post/how-to-solve-killed-git-error-in-homebrew-mac/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/tags/mac/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/categories/tech/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/06/02/istio08/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    <loc>/tags/xcode/</loc>
+    <lastmod>2021-03-20T20:09:00+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <loc>/post/how-to-win-usa-stocks/</loc>
+    <lastmod>2021-03-15T07:12:18+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/categories/tips/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <loc>/tags/blogging/</loc>
+    <lastmod>2021-03-14T20:02:59+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/ubuntu/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <loc>/tags/book-review/</loc>
+    <lastmod>2021-03-14T20:02:59+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/microservice/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+    <loc>/tags/content-quality/</loc>
+    <lastmod>2021-03-14T20:02:59+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/security/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+    <loc>/post/new-blog/</loc>
+    <lastmod>2021-03-14T20:02:59+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/05/23/external_system_auth/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
+    <loc>/tags/writing/</loc>
+    <lastmod>2021-03-14T20:02:59+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/05/23/service_2_service_auth/</loc>
-    <lastmod>2018-05-23T15:00:00+00:00</lastmod>
+    <loc>/tags/c-language/</loc>
+    <lastmod>2020-10-09T15:40:32+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</loc>
-    <lastmod>2018-05-23T10:00:00+00:00</lastmod>
+    <loc>/post/compound-assignment-operators-in-3-nums/</loc>
+    <lastmod>2020-10-09T15:40:32+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/05/23/istio-auto-injection-with-webhook/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <loc>/tags/til/</loc>
+    <lastmod>2020-10-09T15:40:32+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/kubernetes/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
+    <loc>/tags/couch-potatoe/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/categories/life/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <loc>/post/i-can-understand-why-i-was-procrastinating/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/travel/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <loc>/tags/laziness/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/05/01/may-day-jiulonghu/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <loc>/tags/meditation/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/helm/</loc>
-    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
+    <loc>/tags/procrastinating/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/04/16/using-helm-to-deploy-to-kubernetes/</loc>
-    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
+    <loc>/tags/productivity/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/api-gateway/</loc>
-    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+    <loc>/tags/self-help/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/service-mesh/</loc>
-    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+    <loc>/tags/simplicity/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/04/11/service-mesh-vs-api-gateway/</loc>
-    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
+    <loc>/tags/willpower/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/03/29/what-is-service-mesh-and-istio/</loc>
-    <lastmod>2018-03-29T12:00:00+00:00</lastmod>
+    <loc>/tags/workout/</loc>
+    <lastmod>2020-10-06T17:23:48+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/docker/</loc>
-    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+    <loc>/post/til-array-pointer/</loc>
+    <lastmod>2020-08-27T21:41:02+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/tips/</loc>
-    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+    <loc>/tags/c/</loc>
+    <lastmod>2020-08-27T21:41:02+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/03/13/use-docker-behind-http-proxy/</loc>
-    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
+    <loc>/tags/pointer/</loc>
+    <lastmod>2020-08-27T21:41:02+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/vim/</loc>
-    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
+    <loc>/tags/motivation/</loc>
+    <lastmod>2020-08-25T09:37:17+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/02/09/vim-tips/</loc>
-    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
+    <loc>/tags/permaculture/</loc>
+    <lastmod>2020-08-25T09:37:17+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/02/09/docker-without-sudo/</loc>
-    <lastmod>2018-02-09T10:00:00+00:00</lastmod>
+    <loc>/post/want-to-contribute-on-raising-awareness-about-environment-and-green-issue-within-permaculture-and-coding/</loc>
+    <lastmod>2020-08-25T09:37:17+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</loc>
-    <lastmod>2018-02-03T12:00:00+00:00</lastmod>
+    <loc>/tags/why-learn-coding/</loc>
+    <lastmod>2020-08-25T09:37:17+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/tags/nginmesh/</loc>
-    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
+    <loc>/tags/will/</loc>
+    <lastmod>2020-08-25T09:37:17+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2018/01/02/nginmesh-install/</loc>
-    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
+    <loc>/post/shell-seems-a-playing-game/</loc>
+    <lastmod>2020-08-25T08:59:44+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2017/11/28/access-application-from-outside/</loc>
-    <lastmod>2017-11-28T12:00:00+00:00</lastmod>
+    <loc>/tags/shell/</loc>
+    <lastmod>2020-08-25T08:59:44+09:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2017/11/08/istio-canary-release/</loc>
-    <lastmod>2017-11-08T15:00:00+00:00</lastmod>
+    <loc>/tags/ssh/</loc>
+    <lastmod>2020-08-08T09:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2017/11/07/istio-traffic-shifting/</loc>
-    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
+    <loc>/post/ssh-add-issue-for-git-push/</loc>
+    <lastmod>2020-08-08T09:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2017/11/04/istio-install_and_example/</loc>
-    <lastmod>2017-11-04T12:00:00+00:00</lastmod>
+    <loc>/tags/vim-fugitive/</loc>
+    <lastmod>2020-08-08T09:23:12+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/2017/11/03/hello-world/</loc>
-    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <loc>/tags/42ecole/</loc>
+    <lastmod>2020-07-31T17:48:55+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/search/placeholder/</loc>
+    <loc>/tags/book/</loc>
+    <lastmod>2020-07-31T17:48:55+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/top/about/</loc>
+    <loc>/post/what-should-be-done-if-want-to-be-as-42ecole-student-without-attending/</loc>
+    <lastmod>2020-07-31T17:48:55+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/top/books/</loc>
+    <loc>/post/how-to-set-repeat-key-speed-in-terminal/</loc>
+    <lastmod>2020-07-29T09:03:44+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/search/</loc>
+    <loc>/tags/automatic/</loc>
+    <lastmod>2020-07-28T05:17:08+08:00</lastmod>
   </url><url>
-    <loc>https://zhaohuabing.com/top/</loc>
+    <loc>/tags/credential/</loc>
+    <lastmod>2020-07-28T05:17:08+08:00</lastmod>
+  </url><url>
+    <loc>/post/how-to-automatically-push-git-without-credential-input/</loc>
+    <lastmod>2020-07-28T05:17:08+08:00</lastmod>
+  </url><url>
+    <loc>/tags/push/</loc>
+    <lastmod>2020-07-28T05:17:08+08:00</lastmod>
+  </url><url>
+    <loc>/post/decided-on-learning-c-language-2020/</loc>
+    <lastmod>2020-07-27T11:56:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/learning/</loc>
+    <lastmod>2020-07-27T11:56:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/rich/</loc>
+    <lastmod>2020-07-27T11:56:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/self-develop/</loc>
+    <lastmod>2020-07-27T11:56:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/country-side/</loc>
+    <lastmod>2020-07-21T09:32:05+08:00</lastmod>
+  </url><url>
+    <loc>/tags/housing/</loc>
+    <lastmod>2020-07-21T09:32:05+08:00</lastmod>
+  </url><url>
+    <loc>/post/nong-mak-research/</loc>
+    <lastmod>2020-07-21T09:32:05+08:00</lastmod>
+  </url><url>
+    <loc>/tags/research/</loc>
+    <lastmod>2020-07-21T09:32:05+08:00</lastmod>
+  </url><url>
+    <loc>/tags/suburban/</loc>
+    <lastmod>2020-07-21T09:32:05+08:00</lastmod>
+  </url><url>
+    <loc>/post/grasses-in-permaculture/</loc>
+    <lastmod>2020-07-20T16:39:27+08:00</lastmod>
+  </url><url>
+    <loc>/tags/garden/</loc>
+    <lastmod>2020-07-20T16:39:27+08:00</lastmod>
+  </url><url>
+    <loc>/tags/grass/</loc>
+    <lastmod>2020-07-20T16:39:27+08:00</lastmod>
+  </url><url>
+    <loc>/tags/weed/</loc>
+    <lastmod>2020-07-20T16:39:27+08:00</lastmod>
+  </url><url>
+    <loc>/tags/fork/</loc>
+    <lastmod>2020-07-19T15:41:04+08:00</lastmod>
+  </url><url>
+    <loc>/post/fork-app-subtree-was-the-solution-to-upload-specific-folder/</loc>
+    <lastmod>2020-07-19T15:41:04+08:00</lastmod>
+  </url><url>
+    <loc>/tags/subtree/</loc>
+    <lastmod>2020-07-19T15:41:04+08:00</lastmod>
+  </url><url>
+    <loc>/tags/napoleon-hill/</loc>
+    <lastmod>2020-07-18T16:55:35+08:00</lastmod>
+  </url><url>
+    <loc>/tags/reading/</loc>
+    <lastmod>2020-07-18T16:55:35+08:00</lastmod>
+  </url><url>
+    <loc>/tags/review/</loc>
+    <lastmod>2020-07-18T16:55:35+08:00</lastmod>
+  </url><url>
+    <loc>/tags/think-and-grow-rich/</loc>
+    <lastmod>2020-07-18T16:55:35+08:00</lastmod>
+  </url><url>
+    <loc>/post/think-and-grow-rich-transcribing-cures-me/</loc>
+    <lastmod>2020-07-18T16:55:35+08:00</lastmod>
+  </url><url>
+    <loc>/tags/transcribing/</loc>
+    <lastmod>2020-07-18T16:55:35+08:00</lastmod>
+  </url><url>
+    <loc>/post/42seoul-preparation-when-you-know-nothing/</loc>
+  </url><url>
+    <loc>/post/finally-got-c-course/</loc>
+  </url><url>
+    <loc>/post/how-to-initialize-nvim-setting/</loc>
+  </url><url>
+    <loc>/post/how-to-see-the-assembler-result-with-c-lang/</loc>
+  </url><url>
+    <loc>/post/how-to-use-pointers-in-c/</loc>
+  </url><url>
+    <loc>/post/pipe-meaning-in-terminal/</loc>
+  </url><url>
+    <loc>/post/reason-of-void-type-function-usage/</loc>
+  </url><url>
+    <loc>/post/str-vs-str/</loc>
+  </url><url>
+    <loc>/post/thinking-about-42-assessment/</loc>
+  </url><url>
+    <loc>/post/what-i-need-is-to-take-what-a-quiz-clearly-askes-for/</loc>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
 </urlset>

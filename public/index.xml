@@ -1,272 +1,299 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Huabing Blog</title>
-    <link>https://zhaohuabing.com/</link>
-    <description>Recent content on Huabing Blog</description>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaohuabing.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 20:09:00 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Clean White Theme for Hugo</title>
-      <link>https://zhaohuabing.com/post/readme/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <title>How to Solve Killed Git Error in Homebrew Mac</title>
+      <link>/post/how-to-solve-killed-git-error-in-homebrew-mac/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/post/readme/</guid>
-      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+      <guid>/post/how-to-solve-killed-git-error-in-homebrew-mac/</guid>
+      <description>Error occured during Git installation without xcode $ git zsh: killed git What I have was only brew. Didn&amp;rsquo;t want to install xcode
+Check $ brew config HOMEBREW_VERSION: &amp;gt;=2.5.0 (shallow or no git repository) ORIGIN: (none) HEAD: (none) Last commit: never Core tap ORIGIN: (none) Core tap HEAD: (none) Core tap last commit: never Core tap branch: (none) HOMEBREW_PREFIX: /opt/homebrew HOMEBREW_CASK_OPTS: [] HOMEBREW_MAKE_JOBS: 8 Homebrew Ruby: 2.6.3 =&amp;gt; /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby CPU: octa-core 64-bit arm_firestorm_icestorm Clang: 12.</description>
     </item>
     
     <item>
-      <title>Istio v1aplha3 routing API介绍(译文）</title>
-      <link>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Book Review - The answer is US stocks : Before finishing this book, Never start a stock trading</title>
+      <link>/post/how-to-win-usa-stocks/</link>
+      <pubDate>Mon, 15 Mar 2021 07:12:18 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</guid>
-      <description>&lt;p&gt;到目前为止，Istio提供了一个简单的API来进行流量管理，该API包括了四种资源：RouteRule，DestinationPolicy，EgressRule和Ingress（直接使用了Kubernets的Ingress资源）。借助此API，用户可以轻松管理Istio服务网格中的流量。该API允许用户将请求路由到特定版本的服务，为弹性测试注入延迟和失败，添加超时和断路器等等，所有这些功能都不必更改应用程序本身的代码。&lt;/p&gt;</description>
+      <guid>/post/how-to-win-usa-stocks/</guid>
+      <description>It&amp;rsquo;s a book which published in S.Korea. &amp;lsquo;미국주식이 답이다&amp;rsquo; USA stocks market has some positive features which differentiates with South Korea Stock markets. It&amp;rsquo;s transparency. There are not many factors to determine the share price. The USA share prices draw proportionally with the company&amp;rsquo;s income graph. the first feature has</description>
     </item>
     
     <item>
-      <title>Istio 0.8 Release发布</title>
-      <link>https://zhaohuabing.com/2018/06/02/istio08/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      <title>New Theme &amp; Moved onto hugo blog from SNSs</title>
+      <link>/post/new-blog/</link>
+      <pubDate>Sun, 14 Mar 2021 20:02:59 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/06/02/istio08/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;在6月1日这一天的早上，Istio社区宣布发布0.8 Release，除了常规的故障修复和性能改进外，这个儿童节礼物里面还有什么值得期待内容呢？让我们来看一看：&lt;/p&gt;
-&lt;/blockquote&gt;</description>
+      <guid>/post/new-blog/</guid>
+      <description>This themes&amp;rsquo;s simplicity of beauty just haunting me so badly. Yes, This is my first blog. I&amp;rsquo;ve fallen love at the Eureka Themes..
+Appreciate deeply on C. Wang who built this theme.
+Had other social platforms, but need to gather them all in one. Well, Yeah I&amp;rsquo;ve been using the Brunch(A Book-write-encouraging Platform). However, thought, it&amp;rsquo;d be better if funnel all traffics into a place where gathered all contents.
+ Brunch Youtube OhMyNews Journalist Channel&amp;rsquo;s article Facebook Instagram  Above all platforms are them which I used to write with.</description>
     </item>
     
     <item>
-      <title>Everything about Setting Up My Ubuntu Desktop</title>
-      <link>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <title>Compound Assignment Operators in 3 Nums</title>
+      <link>/post/compound-assignment-operators-in-3-nums/</link>
+      <pubDate>Fri, 09 Oct 2020 15:40:32 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/24/set_up_my_ubuntu_desktop/</guid>
-      <description>Generate SSH Key Pair ssh-keygen -C &amp;quot;zhaohuabing@gmail.com&amp;quot; Shadowsocks Install shadowsokcs sudo apt-get install python3-pip sudo pip3 install shadowsocks Create config at config/shadowsocks.json, with the following content: { &amp;quot;server&amp;quot;:&amp;quot;remote-shadowsocks-server-ip-addr&amp;quot;, &amp;quot;server_port&amp;quot;:443, &amp;quot;local_address&amp;quot;:&amp;quot;127.0.0.1&amp;quot;, &amp;quot;local_port&amp;quot;:1080, &amp;quot;password&amp;quot;:&amp;quot;your-passwd&amp;quot;, &amp;quot;timeout&amp;quot;:300, &amp;quot;method&amp;quot;:&amp;quot;aes-256-cfb&amp;quot;, &amp;quot;fast_open&amp;quot;:false, &amp;quot;workers&amp;quot;:1 } Start a local socks proxy sudo sslocal -c config/shadowsocks.json -d start In case there is an openssl error, modify shadowsocks source file. sudo vi /usr/local/lib/python3.6/dist-packages/shadowsocks/crypto/openssl.py :%s/cleanup/reset/gc Convert shadowsocks socks proxy to http proxy</description>
+      <guid>/post/compound-assignment-operators-in-3-nums/</guid>
+      <description>i += j += k;
+This assignment seems tricky. but Knking&amp;rsquo;s book say, there is a tip.
+i += (j += k);
+so, j+=k becomes (j=j+k), hence operated first. at here, K never has any operating without only its initialization. if k = 3; k becomes just 3.
+j becomes j+3.
+and,
+i = i+ (j+3).
+That&amp;rsquo;s it!</description>
     </item>
     
     <item>
-      <title>微服务安全沉思录之三</title>
-      <link>https://zhaohuabing.com/2018/05/23/external_system_auth/</link>
-      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <title>I Can Understand Why I Was Procrastinating</title>
+      <link>/post/i-can-understand-why-i-was-procrastinating/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/23/external_system_auth/</guid>
-      <description>外部系统访问控制 除用户访问和微服务之间的相互访问外，外部的第三方系统也可能需要访问系统内部的微服务。例如在上一篇博客的网上商店例子中，外部的</description>
+      <guid>/post/i-can-understand-why-i-was-procrastinating/</guid>
+      <description>Yes, Since I&amp;rsquo;ve came across here from Bali. franckly, I found myself, lack of grit. Well, My Mindset always chased into achieveing my longterm goal. However, I spent many days with wetting my pillows because of unresistable laziness, somehow.
+That was true suffering. So I wrote down my feeling tried to figure out why my laziness I cannot beat it up.
+then I found a book. The book said, my status was lack of willpower.</description>
     </item>
     
     <item>
-      <title>微服务安全沉思录之二</title>
-      <link>https://zhaohuabing.com/2018/05/23/service_2_service_auth/</link>
-      <pubDate>Wed, 23 May 2018 15:00:00 +0000</pubDate>
+      <title>Array Pointer</title>
+      <link>/post/til-array-pointer/</link>
+      <pubDate>Thu, 27 Aug 2020 21:41:02 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/23/service_2_service_auth/</guid>
-      <description>&lt;h2 id=&#34;服务间认证与鉴权&#34;&gt;服务间认证与鉴权&lt;/h2&gt;
-&lt;p&gt;除来自用户的访问请求以外，微服务应用中的各个微服务相互之间还有大量的访问，包括下述场景：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;用户间接触发的微服务之间的相互访问&lt;!-- raw HTML omitted --&gt;
-例如在一个网上商店应用中，用户访问购物车微服务进行结算时，购物车微服务可能需要访问用户评级微服务获取用户的会员级别，以得到用户可以享受购物折扣。&lt;/li&gt;
-&lt;li&gt;非用户触发的微服务之间的相互访问&lt;!-- raw HTML omitted --&gt;
-例如数据同步或者后台定时任务导致的微服务之间的相互访问。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;根据应用系统的数据敏感程度的不同，对于系统内微服务的相互访问可能有不同的安全要求。&lt;/p&gt;</description>
+      <guid>/post/til-array-pointer/</guid>
+      <description>Concepts  Array is a pointer. But It&amp;rsquo;s const pointer. (how?) Array name cannot change as a const variable. Array name is a pointer that points to the First element of the Array Array of pointers easy to make a bunch of arrays at once.  Tip  Use either array subscript notation or pointer dereferencing to access array and pointer values. Using pointers allows more flexibility than arrays. Use character pointers if you want to assign string literals directly.</description>
     </item>
     
     <item>
-      <title>微服务安全沉思录之一</title>
-      <link>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</link>
-      <pubDate>Wed, 23 May 2018 10:00:00 +0000</pubDate>
+      <title>Want to Contribute on Raising Awareness About Environment and Green Issue Within Permaculture and Coding</title>
+      <link>/post/want-to-contribute-on-raising-awareness-about-environment-and-green-issue-within-permaculture-and-coding/</link>
+      <pubDate>Tue, 25 Aug 2020 09:37:17 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</guid>
-      <description>这段时间对之前微服务安全相关的一些想法进行了进一步总结和归纳，理清了在之前文章里面没有想得太清楚的地方，例如服务间的认证与鉴权以及用户身份在</description>
+      <guid>/post/want-to-contribute-on-raising-awareness-about-environment-and-green-issue-within-permaculture-and-coding/</guid>
+      <description>I&amp;rsquo;d like to distribute this country&amp;rsquo;s eco system. Since the nature&amp;rsquo;s disaster have been taken place, this country needs raising the awareness on Balancing with nature. We need make a balance and respect this nature. Many people got economically damaged or lost living because of the disasters. Flood damages, landslides, abnormally increased moths, careless chemical cropping, broken eco system and the fine particles problems. All the things are the sign</description>
     </item>
     
     <item>
-      <title>Istio Sidecar自动注入原理</title>
-      <link>https://zhaohuabing.com/2018/05/23/istio-auto-injection-with-webhook/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>Learning Shell is like a playing game!</title>
+      <link>/post/shell-seems-a-playing-game/</link>
+      <pubDate>Tue, 25 Aug 2020 08:59:44 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/23/istio-auto-injection-with-webhook/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;hr&gt;
-&lt;p&gt;Kubernets 1.9版本引入了Admission Webhook(web 回调)扩展机制，通过Webhook,开发者可以非常灵活地对Kubernets API Server的功能进行扩展，在API Server创建资源时对资源进行验证或者修改。&lt;/p&gt;
-&lt;p&gt;使用webhook的优势是不需要对API Server的源码进行修改和重新编译就可以扩展其功能。插入的逻辑实现为一个独立的web进程，通过参数方式传入到kubernets中，由kubernets在进行自身逻辑处理时对扩展逻辑进行回调。&lt;/p&gt;
-&lt;p&gt;Istio 0.7版本就利用了Kubernets webhook实现了sidecar的自动注入。&lt;/p&gt;</description>
+      <guid>/post/shell-seems-a-playing-game/</guid>
+      <description>Well, Still there are some things that I should have to keep learning. C Language, and shell are the things.
+I didn&amp;rsquo;t start yet about C lang, but The shell.
+Shell scripts seem very useful more than any other language. Javascript, Java, etc. They need for only specific environment. On Web, or on a program. But the shell, When you have any of O/S, as there is basically installed shell. You can get profits from the built-in shell programs.</description>
     </item>
     
     <item>
-      <title>川西秘境探险</title>
-      <link>https://zhaohuabing.com/2018/05/01/may-day-jiulonghu/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <title>Ssh Add Issue for Git Push</title>
+      <link>/post/ssh-add-issue-for-git-push/</link>
+      <pubDate>Sat, 08 Aug 2020 09:23:12 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/01/may-day-jiulonghu/</guid>
-      <description>&lt;h2 id=&#34;寻浮云牧场不遇&#34;&gt;寻浮云牧场不遇&lt;/h2&gt;
-&lt;p&gt;五一节前的一周内，几个朋友就纷纷坐不住了，一个二个不再安心上班，开始在微信群里讨论过节要到哪里耍。
-大家思来想去，最后决定还是去理县方向。因为根据多年自驾的经验，只要出了汶川，沿途都是风景。&lt;/p&gt;</description>
+      <guid>/post/ssh-add-issue-for-git-push/</guid>
+      <description>Struggled with pushing Vim-fugitive. The main issue was happening whenever I tried to push on Vim-fugitive.
+Problem  load Username failed  fatal: could not read Username for &#39;https://github.com&#39;: No such device or address ssh-askpass error  ssh_askpass: exec(/usr/bin/ssh-askpass): No such file or directory debian Cause The message meant that I wasn&amp;rsquo;t verified with my own SSH.
+Solution  had to install ssh-add, through sudo apt-get install ssh-add. firstly made sure whether do I have the keygen existed by ls -al ~/.</description>
     </item>
     
     <item>
-      <title>Helm介绍</title>
-      <link>https://zhaohuabing.com/2018/04/16/using-helm-to-deploy-to-kubernetes/</link>
-      <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
+      <title>Research About 42ecole</title>
+      <link>/post/what-should-be-done-if-want-to-be-as-42ecole-student-without-attending/</link>
+      <pubDate>Fri, 31 Jul 2020 17:48:55 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/04/16/using-helm-to-deploy-to-kubernetes/</guid>
-      <description>前言 Helm是Kubernetes生态系统中的一个软件包管理工具。本文将介绍为何要使用Helm进行Kubernetes软件包管理，澄清Hel</description>
+      <guid>/post/what-should-be-done-if-want-to-be-as-42ecole-student-without-attending/</guid>
+      <description>wanted to know what can I learn if attend the school.
+Even though I&amp;rsquo;m not that much prepared with French.
+They mainly focus on teaching code with C. C is the mostly interesting language for me, by its usage in various machine.
+Interesting   There is a person who got an internship in Teslar just after 8 months schooling of 42. &amp;lsquo;He is a pushy man&amp;rsquo;
+  There is an argument which is 42ecole system doesn&amp;rsquo;t have any valide result, on LinkedIn</description>
     </item>
     
     <item>
-      <title>Service Mesh 和 API Gateway的关系探讨（译文）</title>
-      <link>https://zhaohuabing.com/2018/04/11/service-mesh-vs-api-gateway/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
+      <title>How to Set Repeat Key Speed in Terminal</title>
+      <link>/post/how-to-set-repeat-key-speed-in-terminal/</link>
+      <pubDate>Wed, 29 Jul 2020 09:03:44 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/04/11/service-mesh-vs-api-gateway/</guid>
-      <description>Service Mesh vs API Gateway 在前一篇关于Service Mesh的文章中,我提到了几个关于Service Mesh和API Gateway之间关系的问题，在本篇文章</description>
+      <guid>/post/how-to-set-repeat-key-speed-in-terminal/</guid>
+      <description>How to xset r rate 250 60
+Conclusion There is another way as
+sudo kbdrate -r 10.9 -d 250 but There seems a complaint that doens&amp;rsquo;t speed up much.
+But for me, xset r rate 250 60 does work :D</description>
     </item>
     
     <item>
-      <title>谈谈微服务架构中的基础设施：Service Mesh与Istio</title>
-      <link>https://zhaohuabing.com/2018/03/29/what-is-service-mesh-and-istio/</link>
-      <pubDate>Thu, 29 Mar 2018 12:00:00 +0000</pubDate>
+      <title>How to Automatically Push Git Without Credential Input</title>
+      <link>/post/how-to-automatically-push-git-without-credential-input/</link>
+      <pubDate>Tue, 28 Jul 2020 05:17:08 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/03/29/what-is-service-mesh-and-istio/</guid>
-      <description>&lt;h2 id=&#34;微服务架构的演进&#34;&gt;微服务架构的演进&lt;/h2&gt;
-&lt;p&gt;作为一种架构模式，微服务将复杂系统切分为数十乃至上百个小服务，每个服务负责实现一个独立的业务逻辑。这些小服务易于被小型的软件工程师团队所理解和修改，并带来了语言和框架选择灵活性，缩短应用开发上线时间，可根据不同的工作负载和资源要求对服务进行独立缩扩容等优势。&lt;/p&gt;
-&lt;p&gt;另一方面，当应用被拆分为多个微服务进程后，进程内的方法调用变成了了进程间的远程调用。引入了对大量服务的连接、管理和监控的复杂性。&lt;/p&gt;</description>
+      <guid>/post/how-to-automatically-push-git-without-credential-input/</guid>
+      <description>The problem So, the problem was that I had to keep writing down my credential info for pushing onto git repo.
+Solution   git config credential.helper store
+  git push &amp;lt;repo&amp;gt;
+  git config --global credential.helper &amp;quot;cache --timeout 7200&amp;quot; This setting will expire your cached credential info for 2 hours later.
+  Conclusion  git config credential.helper store commands order to store the git user info (pw, id) in local env - It can raise security issue.</description>
     </item>
     
     <item>
-      <title>如何配置docker使用HTTP代理</title>
-      <link>https://zhaohuabing.com/2018/03/13/use-docker-behind-http-proxy/</link>
-      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
+      <title>Decided on Learning C Language 2020</title>
+      <link>/post/decided-on-learning-c-language-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 11:56:38 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/03/13/use-docker-behind-http-proxy/</guid>
-      <description>&lt;h2 id=&#34;ubuntu&#34;&gt;Ubuntu&lt;/h2&gt;
-&lt;h3 id=&#34;设置docker使用http-proxy&#34;&gt;设置docker使用http proxy&lt;/h3&gt;
-&lt;pre&gt;&lt;code&gt;sudo /etc/default/docker
-
-export http_proxy=&amp;quot;http://127.0.0.1:3128/&amp;quot;
-export https_proxy=&amp;quot;http://127.0.0.1:3128/&amp;quot;
-export HTTP_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
-export HTTPS_PROXY=&amp;quot;http://127.0.0.1:3128/&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>/post/decided-on-learning-c-language-2020/</guid>
+      <description>So I&amp;rsquo;ll get start to learn C language. Even I didn&amp;rsquo;t start or make any installation with that in this Linux laptop, but I believe there would be many profit for myself.
+C language can be used in broad fields. As it&amp;rsquo;s called as a middle ware language, that can cover even in Embeded environment.
+As I&amp;rsquo;m into permaculture, one day I&amp;rsquo;ll try to make the better enviroment construct by the installation of sensors in a place to optimize the growth of crops.</description>
     </item>
     
     <item>
-      <title>Vim Tips</title>
-      <link>https://zhaohuabing.com/2018/02/09/vim-tips/</link>
-      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      <title>Nong mak research</title>
+      <link>/post/nong-mak-research/</link>
+      <pubDate>Tue, 21 Jul 2020 09:32:05 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/02/09/vim-tips/</guid>
-      <description>&lt;h2 id=&#34;vim-graphical-cheat-sheet&#34;&gt;vim graphical cheat sheet&lt;/h2&gt;
-&lt;p&gt;
-  &lt;img src=&#34;https://zhaohuabing.com/https://img.zhaohuabing.com/in-post/2018-02-09-vim-tips/vi-vim-cheat-sheet.svg&#34; alt=&#34;&#34;&gt;
-
-&lt;/p&gt;</description>
+      <guid>/post/nong-mak-research/</guid>
+      <description>Research the ideal living in South Korea&amp;rsquo;s Country side. May useful Removable Dormitory Used a business room Removable Wooden house need to check with the law, and application of usage the land. a cob house What I&amp;rsquo;m looking for in the country side? I can see that I&amp;rsquo;m so much into the permacultural life style. Even we can try to live in Jin-ahn. When we move back to South Korea.</description>
     </item>
     
     <item>
-      <title>如何使用非root用户执行docker命令</title>
-      <link>https://zhaohuabing.com/2018/02/09/docker-without-sudo/</link>
-      <pubDate>Fri, 09 Feb 2018 10:00:00 +0000</pubDate>
+      <title>About Grasses in Permaculture</title>
+      <link>/post/grasses-in-permaculture/</link>
+      <pubDate>Mon, 20 Jul 2020 16:39:27 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/02/09/docker-without-sudo/</guid>
-      <description>Add the docker group if it doesn&amp;rsquo;t already exist: sudo groupadd docker Add the connected user &amp;ldquo;$USER&amp;rdquo; to the docker group. Change the user name to match your preferred user if you do not want to use your current user: sudo gpasswd -a $USER docker Either do a newgrp docker or log out/in to activate the changes to groups.</description>
+      <guid>/post/grasses-in-permaculture/</guid>
+      <description>The affect of unnamed glasses They absorb the carbon then giving to the crops near 부분의 사람들은 잡초가 작물의 양분을 뺏을까 걱정하며 제거하기에 바쁘지만 잡초를 뽑으면 득보다 실이 많다는 것이 김 박사의 주장이</description>
     </item>
     
     <item>
-      <title>如何构建安全的微服务应用？</title>
-      <link>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</link>
-      <pubDate>Sat, 03 Feb 2018 12:00:00 +0000</pubDate>
+      <title>Fork app subtree was the solution to upload specific folder</title>
+      <link>/post/fork-app-subtree-was-the-solution-to-upload-specific-folder/</link>
+      <pubDate>Sun, 19 Jul 2020 15:41:04 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/05/22/user_authentication_authorization/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;p&gt;微服务架构的引入为软件应用带来了诸多好处：包括小开发团队，缩短开发周期，语言选择灵活性，增强服务伸缩能力等。与此同时，也引入了分布式系统的诸多复杂问题。其中一个挑战就是如何在微服务架构中实现一个灵活，安全，高效的认证和鉴权方案。本文将尝试就此问题进行一次比较完整的探讨。&lt;/p&gt;</description>
+      <guid>/post/fork-app-subtree-was-the-solution-to-upload-specific-folder/</guid>
+      <description>Git was super difficult for me. but it took the time to get used with, inevitably. The matter of fact is that I needed to upload public folder which is the projection for this hugo blog. When I just able to upload the publicfolder to the gh-pages only, during wrapping up all git changes, I was the only way to seperately manage the hugo blog well. the right way was</description>
     </item>
     
     <item>
-      <title>Nginx开源Service Mesh组件Nginmesh安装指南</title>
-      <link>https://zhaohuabing.com/2018/01/02/nginmesh-install/</link>
-      <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
+      <title>Think and grow rich transcribing cures me</title>
+      <link>/post/think-and-grow-rich-transcribing-cures-me/</link>
+      <pubDate>Sat, 18 Jul 2020 16:55:35 +0800</pubDate>
       
-      <guid>https://zhaohuabing.com/2018/01/02/nginmesh-install/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;p&gt;Nginmesh是NGINX的Service Mesh开源项目，用于Istio服务网格平台中的数据面代理。它旨在提供七层负载均衡和服务路由功能，与Istio集成作为sidecar部署，并将以“标准，可靠和安全的方式”使得服务间通信更容易。Nginmesh在今年底已经连续发布了0.2和0.3版本，提供了服务发现，请求转发，路由规则，性能指标收集等功能。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>如何从外部访问Kubernetes集群中的应用？</title>
-      <link>https://zhaohuabing.com/2017/11/28/access-application-from-outside/</link>
-      <pubDate>Tue, 28 Nov 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://zhaohuabing.com/2017/11/28/access-application-from-outside/</guid>
-      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
-&lt;p&gt;我们知道，kubernetes的Cluster Network属于私有网络，只能在cluster Network内部才能访问部署的应用，那如何才能将Kubernetes集群中的应用暴露到外部网络，为外部用户提供服务呢？本文探讨了从外部网络访问kubernetes cluster中应用的几种实现方式。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>采用Istio实现灰度发布(金丝雀发布)</title>
-      <link>https://zhaohuabing.com/2017/11/08/istio-canary-release/</link>
-      <pubDate>Wed, 08 Nov 2017 15:00:00 +0000</pubDate>
-      
-      <guid>https://zhaohuabing.com/2017/11/08/istio-canary-release/</guid>
-      <description>灰度发布（又名金丝雀发布）介绍 当应用上线以后，运维面临的一大挑战是如何能够在不影响已上线业务的情况下进行升级。做过产品的同学都清楚，不管在发</description>
-    </item>
-    
-    <item>
-      <title>使用Istio实现应用流量转移</title>
-      <link>https://zhaohuabing.com/2017/11/07/istio-traffic-shifting/</link>
-      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhaohuabing.com/2017/11/07/istio-traffic-shifting/</guid>
-      <description>&lt;p&gt;关于Istio的更多内容请参考&lt;a href=&#34;http://istio.doczh.cn/&#34;&gt;istio中文文档&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;原文参见&lt;a href=&#34;https://istio.io/docs/tasks/traffic-management/traffic-shifting.html&#34;&gt;Traffic Shifting&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;本任务将演示如何将应用流量逐渐从旧版本的服务迁移到新版本。通过Istio，可以使用一系列不同权重的规则（10%，20%，··· 100%）将流量平缓地从旧版本服务迁移到新版本服务。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Istio及Bookinfo示例程序安装试用笔记</title>
-      <link>https://zhaohuabing.com/2017/11/04/istio-install_and_example/</link>
-      <pubDate>Sat, 04 Nov 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://zhaohuabing.com/2017/11/04/istio-install_and_example/</guid>
-      <description>&lt;h2 id=&#34;服务网格简介&#34;&gt;服务网格简介&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;服务网格&lt;/strong&gt;（Service Mesh）是为解决微服务的通信和治理而出现的一种&lt;strong&gt;架构模式&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;服务网格将服务间通讯以及与此相关的管理控制功能从业务程序中下移到一个基础设施层，从而彻底隔离了业务逻辑和服务通讯两个关注点。采用服务网格后，应用开发者只需要关注并实现应用业务逻辑。服务之间的通信，包括服务发现，通讯的可靠性，通讯的安全性，服务路由等由服务网格层进行处理，并对应用程序透明。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Zhaohuabing Blog</title>
-      <link>https://zhaohuabing.com/2017/11/03/hello-world/</link>
-      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhaohuabing.com/2017/11/03/hello-world/</guid>
-      <description>“Yeah It&amp;rsquo;s on. ” Hello World!</description>
+      <guid>/post/think-and-grow-rich-transcribing-cures-me/</guid>
+      <description>How to be rich even in spirituality. He does really great job and, no matter what it is, his book just shows me how to be the rich man in genuine term. Just having a lot of money in material isn&amp;rsquo;t a meaning of right form of Rich. The Rich that I think is, Materially, and spiritually being free. Of course, Being free almost can be achieved by materially Free, by a lot earning of money.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zhaohuabing.com/search/placeholder/</link>
+      <link>/post/42seoul-preparation-when-you-know-nothing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/search/placeholder/</guid>
-      <description></description>
+      <guid>/post/42seoul-preparation-when-you-know-nothing/</guid>
+      <description>42 Piscine 합격자들 이야 관련 키워드: Piscine 카테고리: 42 Piscine Info &amp;lsquo;어떻게 하면 42 Piscine을 통과할 수 있을까&amp;rsquo; 찾아보다 나온 자료들 어떻게</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zhaohuabing.com/top/about/</link>
+      <link>/post/finally-got-c-course/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/top/about/</guid>
-      <description>Huabing Zhao is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years. Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions. He loves open source and has been contributing to a variety of open source projects, including Istio(Service</description>
+      <guid>/post/finally-got-c-course/</guid>
+      <description>Yes, I&amp;rsquo;m in Fiscine! But had struggled in shell stage to break it out at all! What can I do so?
+This is so happy(or maybe TMI).
+Ha&amp;hellip; but that wasn&amp;rsquo;t that 100% my efforts, rather took helps from other peers. I feel so gratitude on her and other people. So thanksful about this ;D
+If I did all my effort on this result, It would take more time. So happy of this :D!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zhaohuabing.com/top/books/</link>
+      <link>/post/how-to-initialize-nvim-setting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zhaohuabing.com/top/books/</guid>
-      <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
+      <guid>/post/how-to-initialize-nvim-setting/</guid>
+      <description>How to install nvim setting</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/how-to-see-the-assembler-result-with-c-lang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-see-the-assembler-result-with-c-lang/</guid>
+      <description>This is all about how to see the assembler complied result with C langauge. Learned from &amp;lsquo;rush&amp;rsquo; in 42 well, Mr. doby taught us in our first rush project. Yes we can learn something from the collectors during rush evaluation. Rush means the evaluation activity in 42ecole system. Every weekend, participants(pisciners) should have to join and to access 1 group project with randomly chosen 2 people. How to check complier</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/how-to-use-pointers-in-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-use-pointers-in-c/</guid>
+      <description>It seems very tricky. There are too many concepts to use Pointers in C. How?
+&amp;lsquo;Pointer&amp;rsquo; means a lot. However, commonly they act as &amp;lsquo;Point to something&amp;rsquo;.
+* points an address value. So, when they meet a &amp;amp; or address value, they can dereference a value through the address. So, * variable in function arguments, they requires to meet a &amp;amp;.
+Because &amp;amp; returns an address from a variable. as * needs an address, &amp;amp; can be a good response.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/pipe-meaning-in-terminal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pipe-meaning-in-terminal/</guid>
+      <description>What is pipe? | pipe is a operator in command. The operator does input first command&amp;rsquo;s result into second command&amp;rsquo;s input. for example, if pwd | pbcopy does, pwd&amp;rsquo;s result goes into the pbcopy commands arguments. so as pbcopy does copy into clipboard, pwd&amp;rsquo;s result registered into clipboard. yes, pwd&amp;rsquo;s result goes into pbcopy. &amp;lt;img width=&amp;ldquo;917&amp;rdquo; alt=&amp;ldquo;스ᄏ</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/reason-of-void-type-function-usage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reason-of-void-type-function-usage/</guid>
+      <description>why to use void function in C langauge? Don&amp;rsquo;t need to know what the caller to do with return 0.
+normally the caller from outside of scope, can use the return value 0. However, if unusing any return, it less our pay attentions of it. Yes it saves time, processing and thought! Less is more.
+refer  https://stackoverflow.com/questions/37467888/why-do-we-need-void-functions https://stackoverflow.com/questions/40582977/why-use-void-with-a-function  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/str-vs-str/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/str-vs-str/</guid>
+      <description>str[] does variable, as str[] defines an array. but *str does store an address, which is a string in random memory. So it&amp;rsquo;s a random memory, not easy to approach and manipulate the string.
+but I wonder why? how str[] defines an array. and as we know, an array we can manipulate each data from the each cells.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/thinking-about-42-assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thinking-about-42-assessment/</guid>
+      <description>What they might think about the people who don&amp;rsquo;t want to make them passing?  Cheaters.  The cheaters will not understand and helpful for the cadets. Besides, they should have to be discouraged by that scamming methods. T
+ The people about disinteresting about 42Seoul course.
+  The people not into being informative, coope
+  Weirdos
+  Doesn&amp;rsquo;t increase their ability
+  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/what-i-need-is-to-take-what-a-quiz-clearly-askes-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-i-need-is-to-take-what-a-quiz-clearly-askes-for/</guid>
+      <description>Yeah During this Fiscine, I feel definitely that I need to see more clearly about any quiz.
+Yes, to analize the pattern what a quiz asks for is the core skill that I have to have.
+Because, Most of quiz that I don&amp;rsquo;t see the quiz clearly, but a bit paniced about it. Why? I don&amp;rsquo;t know. Rather just I can put it this way, that I don&amp;rsquo;t really know about how much it was important.</description>
     </item>
     
   </channel>

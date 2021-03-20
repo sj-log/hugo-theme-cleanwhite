@@ -1,126 +1,468 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Huabing Blog</title>
-    <link>https://zhaohuabing.com/tags/</link>
-    <description>Recent content in Tags on Huabing Blog</description>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zhaohuabing.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Mar 2021 20:09:00 +0900</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Istio</title>
-      <link>https://zhaohuabing.com/tags/istio/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Brew</title>
+      <link>/tags/brew/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/istio/</guid>
+      <guid>/tags/brew/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ubuntu</title>
-      <link>https://zhaohuabing.com/tags/ubuntu/</link>
-      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <title>coding</title>
+      <link>/tags/coding/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/ubuntu/</guid>
+      <guid>/tags/coding/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Microservice</title>
-      <link>https://zhaohuabing.com/tags/microservice/</link>
-      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <title>git</title>
+      <link>/tags/git/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/microservice/</guid>
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Security</title>
-      <link>https://zhaohuabing.com/tags/security/</link>
-      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <title>Mac</title>
+      <link>/tags/mac/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/security/</guid>
+      <guid>/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kubernetes</title>
-      <link>https://zhaohuabing.com/tags/kubernetes/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <title>Xcode</title>
+      <link>/tags/xcode/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/kubernetes/</guid>
+      <guid>/tags/xcode/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Travel</title>
-      <link>https://zhaohuabing.com/tags/travel/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <title>Blogging</title>
+      <link>/tags/blogging/</link>
+      <pubDate>Sun, 14 Mar 2021 20:02:59 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/travel/</guid>
+      <guid>/tags/blogging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Helm</title>
-      <link>https://zhaohuabing.com/tags/helm/</link>
-      <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
+      <title>Book Review</title>
+      <link>/tags/book-review/</link>
+      <pubDate>Sun, 14 Mar 2021 20:02:59 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/helm/</guid>
+      <guid>/tags/book-review/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>API Gateway</title>
-      <link>https://zhaohuabing.com/tags/api-gateway/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
+      <title>Content Quality</title>
+      <link>/tags/content-quality/</link>
+      <pubDate>Sun, 14 Mar 2021 20:02:59 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/api-gateway/</guid>
+      <guid>/tags/content-quality/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>service Mesh</title>
-      <link>https://zhaohuabing.com/tags/service-mesh/</link>
-      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
+      <title>Writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Sun, 14 Mar 2021 20:02:59 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/service-mesh/</guid>
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://zhaohuabing.com/tags/docker/</link>
-      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
+      <title>C language</title>
+      <link>/tags/c-language/</link>
+      <pubDate>Fri, 09 Oct 2020 15:40:32 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/docker/</guid>
+      <guid>/tags/c-language/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tips</title>
-      <link>https://zhaohuabing.com/tags/tips/</link>
-      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
+      <title>TIL</title>
+      <link>/tags/til/</link>
+      <pubDate>Fri, 09 Oct 2020 15:40:32 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/tips/</guid>
+      <guid>/tags/til/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vim</title>
-      <link>https://zhaohuabing.com/tags/vim/</link>
-      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      <title>couch potatoe</title>
+      <link>/tags/couch-potatoe/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/vim/</guid>
+      <guid>/tags/couch-potatoe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>nginmesh</title>
-      <link>https://zhaohuabing.com/tags/nginmesh/</link>
-      <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
+      <title>laziness</title>
+      <link>/tags/laziness/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
       
-      <guid>https://zhaohuabing.com/tags/nginmesh/</guid>
+      <guid>/tags/laziness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meditation</title>
+      <link>/tags/meditation/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
+      
+      <guid>/tags/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>procrastinating</title>
+      <link>/tags/procrastinating/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
+      
+      <guid>/tags/procrastinating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>/tags/productivity/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
+      
+      <guid>/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-help</title>
+      <link>/tags/self-help/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
+      
+      <guid>/tags/self-help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simplicity</title>
+      <link>/tags/simplicity/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
+      
+      <guid>/tags/simplicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>willpower</title>
+      <link>/tags/willpower/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
+      
+      <guid>/tags/willpower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workout</title>
+      <link>/tags/workout/</link>
+      <pubDate>Tue, 06 Oct 2020 17:23:48 +0900</pubDate>
+      
+      <guid>/tags/workout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>/tags/c/</link>
+      <pubDate>Thu, 27 Aug 2020 21:41:02 +0900</pubDate>
+      
+      <guid>/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pointer</title>
+      <link>/tags/pointer/</link>
+      <pubDate>Thu, 27 Aug 2020 21:41:02 +0900</pubDate>
+      
+      <guid>/tags/pointer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>/tags/motivation/</link>
+      <pubDate>Tue, 25 Aug 2020 09:37:17 +0900</pubDate>
+      
+      <guid>/tags/motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>permaculture</title>
+      <link>/tags/permaculture/</link>
+      <pubDate>Tue, 25 Aug 2020 09:37:17 +0900</pubDate>
+      
+      <guid>/tags/permaculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why learn coding</title>
+      <link>/tags/why-learn-coding/</link>
+      <pubDate>Tue, 25 Aug 2020 09:37:17 +0900</pubDate>
+      
+      <guid>/tags/why-learn-coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will</title>
+      <link>/tags/will/</link>
+      <pubDate>Tue, 25 Aug 2020 09:37:17 +0900</pubDate>
+      
+      <guid>/tags/will/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>/tags/shell/</link>
+      <pubDate>Tue, 25 Aug 2020 08:59:44 +0900</pubDate>
+      
+      <guid>/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssh</title>
+      <link>/tags/ssh/</link>
+      <pubDate>Sat, 08 Aug 2020 09:23:12 +0800</pubDate>
+      
+      <guid>/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vim-fugitive</title>
+      <link>/tags/vim-fugitive/</link>
+      <pubDate>Sat, 08 Aug 2020 09:23:12 +0800</pubDate>
+      
+      <guid>/tags/vim-fugitive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>42ecole</title>
+      <link>/tags/42ecole/</link>
+      <pubDate>Fri, 31 Jul 2020 17:48:55 +0800</pubDate>
+      
+      <guid>/tags/42ecole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>/tags/book/</link>
+      <pubDate>Fri, 31 Jul 2020 17:48:55 +0800</pubDate>
+      
+      <guid>/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automatic</title>
+      <link>/tags/automatic/</link>
+      <pubDate>Tue, 28 Jul 2020 05:17:08 +0800</pubDate>
+      
+      <guid>/tags/automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>credential</title>
+      <link>/tags/credential/</link>
+      <pubDate>Tue, 28 Jul 2020 05:17:08 +0800</pubDate>
+      
+      <guid>/tags/credential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>push</title>
+      <link>/tags/push/</link>
+      <pubDate>Tue, 28 Jul 2020 05:17:08 +0800</pubDate>
+      
+      <guid>/tags/push/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning</title>
+      <link>/tags/learning/</link>
+      <pubDate>Mon, 27 Jul 2020 11:56:38 +0800</pubDate>
+      
+      <guid>/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rich</title>
+      <link>/tags/rich/</link>
+      <pubDate>Mon, 27 Jul 2020 11:56:38 +0800</pubDate>
+      
+      <guid>/tags/rich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-develop</title>
+      <link>/tags/self-develop/</link>
+      <pubDate>Mon, 27 Jul 2020 11:56:38 +0800</pubDate>
+      
+      <guid>/tags/self-develop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>country side</title>
+      <link>/tags/country-side/</link>
+      <pubDate>Tue, 21 Jul 2020 09:32:05 +0800</pubDate>
+      
+      <guid>/tags/country-side/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>housing</title>
+      <link>/tags/housing/</link>
+      <pubDate>Tue, 21 Jul 2020 09:32:05 +0800</pubDate>
+      
+      <guid>/tags/housing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>/tags/research/</link>
+      <pubDate>Tue, 21 Jul 2020 09:32:05 +0800</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suburban</title>
+      <link>/tags/suburban/</link>
+      <pubDate>Tue, 21 Jul 2020 09:32:05 +0800</pubDate>
+      
+      <guid>/tags/suburban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>garden</title>
+      <link>/tags/garden/</link>
+      <pubDate>Mon, 20 Jul 2020 16:39:27 +0800</pubDate>
+      
+      <guid>/tags/garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grass</title>
+      <link>/tags/grass/</link>
+      <pubDate>Mon, 20 Jul 2020 16:39:27 +0800</pubDate>
+      
+      <guid>/tags/grass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weed</title>
+      <link>/tags/weed/</link>
+      <pubDate>Mon, 20 Jul 2020 16:39:27 +0800</pubDate>
+      
+      <guid>/tags/weed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fork</title>
+      <link>/tags/fork/</link>
+      <pubDate>Sun, 19 Jul 2020 15:41:04 +0800</pubDate>
+      
+      <guid>/tags/fork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subtree</title>
+      <link>/tags/subtree/</link>
+      <pubDate>Sun, 19 Jul 2020 15:41:04 +0800</pubDate>
+      
+      <guid>/tags/subtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>napoleon hill</title>
+      <link>/tags/napoleon-hill/</link>
+      <pubDate>Sat, 18 Jul 2020 16:55:35 +0800</pubDate>
+      
+      <guid>/tags/napoleon-hill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>/tags/reading/</link>
+      <pubDate>Sat, 18 Jul 2020 16:55:35 +0800</pubDate>
+      
+      <guid>/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>/tags/review/</link>
+      <pubDate>Sat, 18 Jul 2020 16:55:35 +0800</pubDate>
+      
+      <guid>/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>think and grow rich</title>
+      <link>/tags/think-and-grow-rich/</link>
+      <pubDate>Sat, 18 Jul 2020 16:55:35 +0800</pubDate>
+      
+      <guid>/tags/think-and-grow-rich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcribing</title>
+      <link>/tags/transcribing/</link>
+      <pubDate>Sat, 18 Jul 2020 16:55:35 +0800</pubDate>
+      
+      <guid>/tags/transcribing/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on </title>
+    <link>/tags/coding/</link>
+    <description>Recent content in coding on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Mar 2021 20:09:00 +0900</lastBuildDate><atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Solve Killed Git Error in Homebrew Mac</title>
+      <link>/post/how-to-solve-killed-git-error-in-homebrew-mac/</link>
+      <pubDate>Sat, 20 Mar 2021 20:09:00 +0900</pubDate>
+      
+      <guid>/post/how-to-solve-killed-git-error-in-homebrew-mac/</guid>
+      <description>Error occured during Git installation without xcode $ git zsh: killed git What I have was only brew. Didn&amp;rsquo;t want to install xcode
+Check $ brew config HOMEBREW_VERSION: &amp;gt;=2.5.0 (shallow or no git repository) ORIGIN: (none) HEAD: (none) Last commit: never Core tap ORIGIN: (none) Core tap HEAD: (none) Core tap last commit: never Core tap branch: (none) HOMEBREW_PREFIX: /opt/homebrew HOMEBREW_CASK_OPTS: [] HOMEBREW_MAKE_JOBS: 8 Homebrew Ruby: 2.6.3 =&amp;gt; /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby CPU: octa-core 64-bit arm_firestorm_icestorm Clang: 12.</description>
+    </item>
+    
+    <item>
+      <title>Learning Shell is like a playing game!</title>
+      <link>/post/shell-seems-a-playing-game/</link>
+      <pubDate>Tue, 25 Aug 2020 08:59:44 +0900</pubDate>
+      
+      <guid>/post/shell-seems-a-playing-game/</guid>
+      <description>Well, Still there are some things that I should have to keep learning. C Language, and shell are the things.
+I didn&amp;rsquo;t start yet about C lang, but The shell.
+Shell scripts seem very useful more than any other language. Javascript, Java, etc. They need for only specific environment. On Web, or on a program. But the shell, When you have any of O/S, as there is basically installed shell. You can get profits from the built-in shell programs.</description>
+    </item>
+    
+    <item>
+      <title>Research About 42ecole</title>
+      <link>/post/what-should-be-done-if-want-to-be-as-42ecole-student-without-attending/</link>
+      <pubDate>Fri, 31 Jul 2020 17:48:55 +0800</pubDate>
+      
+      <guid>/post/what-should-be-done-if-want-to-be-as-42ecole-student-without-attending/</guid>
+      <description>wanted to know what can I learn if attend the school.
+Even though I&amp;rsquo;m not that much prepared with French.
+They mainly focus on teaching code with C. C is the mostly interesting language for me, by its usage in various machine.
+Interesting   There is a person who got an internship in Teslar just after 8 months schooling of 42. &amp;lsquo;He is a pushy man&amp;rsquo;
+  There is an argument which is 42ecole system doesn&amp;rsquo;t have any valide result, on LinkedIn</description>
+    </item>
+    
+    <item>
+      <title>How to Set Repeat Key Speed in Terminal</title>
+      <link>/post/how-to-set-repeat-key-speed-in-terminal/</link>
+      <pubDate>Wed, 29 Jul 2020 09:03:44 +0800</pubDate>
+      
+      <guid>/post/how-to-set-repeat-key-speed-in-terminal/</guid>
+      <description>How to xset r rate 250 60
+Conclusion There is another way as
+sudo kbdrate -r 10.9 -d 250 but There seems a complaint that doens&amp;rsquo;t speed up much.
+But for me, xset r rate 250 60 does work :D</description>
+    </item>
+    
+    <item>
+      <title>Decided on Learning C Language 2020</title>
+      <link>/post/decided-on-learning-c-language-2020/</link>
+      <pubDate>Mon, 27 Jul 2020 11:56:38 +0800</pubDate>
+      
+      <guid>/post/decided-on-learning-c-language-2020/</guid>
+      <description>So I&amp;rsquo;ll get start to learn C language. Even I didn&amp;rsquo;t start or make any installation with that in this Linux laptop, but I believe there would be many profit for myself.
+C language can be used in broad fields. As it&amp;rsquo;s called as a middle ware language, that can cover even in Embeded environment.
+As I&amp;rsquo;m into permaculture, one day I&amp;rsquo;ll try to make the better enviroment construct by the installation of sensors in a place to optimize the growth of crops.</description>
+    </item>
+    
+    <item>
+      <title>Fork app subtree was the solution to upload specific folder</title>
+      <link>/post/fork-app-subtree-was-the-solution-to-upload-specific-folder/</link>
+      <pubDate>Sun, 19 Jul 2020 15:41:04 +0800</pubDate>
+      
+      <guid>/post/fork-app-subtree-was-the-solution-to-upload-specific-folder/</guid>
+      <description>Git was super difficult for me. but it took the time to get used with, inevitably. The matter of fact is that I needed to upload public folder which is the projection for this hugo blog. When I just able to upload the publicfolder to the gh-pages only, during wrapping up all git changes, I was the only way to seperately manage the hugo blog well. the right way was</description>
+    </item>
+    
+  </channel>
+</rss>

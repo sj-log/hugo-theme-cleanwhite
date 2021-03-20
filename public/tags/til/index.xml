@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIL on </title>
+    <link>/tags/til/</link>
+    <description>Recent content in TIL on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2020 15:40:32 +0900</lastBuildDate><atom:link href="/tags/til/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compound Assignment Operators in 3 Nums</title>
+      <link>/post/compound-assignment-operators-in-3-nums/</link>
+      <pubDate>Fri, 09 Oct 2020 15:40:32 +0900</pubDate>
+      
+      <guid>/post/compound-assignment-operators-in-3-nums/</guid>
+      <description>i += j += k;
+This assignment seems tricky. but Knking&amp;rsquo;s book say, there is a tip.
+i += (j += k);
+so, j+=k becomes (j=j+k), hence operated first. at here, K never has any operating without only its initialization. if k = 3; k becomes just 3.
+j becomes j+3.
+and,
+i = i+ (j+3).
+That&amp;rsquo;s it!</description>
+    </item>
+    
+    <item>
+      <title>Array Pointer</title>
+      <link>/post/til-array-pointer/</link>
+      <pubDate>Thu, 27 Aug 2020 21:41:02 +0900</pubDate>
+      
+      <guid>/post/til-array-pointer/</guid>
+      <description>Concepts  Array is a pointer. But It&amp;rsquo;s const pointer. (how?) Array name cannot change as a const variable. Array name is a pointer that points to the First element of the Array Array of pointers easy to make a bunch of arrays at once.  Tip  Use either array subscript notation or pointer dereferencing to access array and pointer values. Using pointers allows more flexibility than arrays. Use character pointers if you want to assign string literals directly.</description>
+    </item>
+    
+  </channel>
+</rss>

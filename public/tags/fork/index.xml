@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fork on </title>
+    <link>/tags/fork/</link>
+    <description>Recent content in Fork on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jul 2020 15:41:04 +0800</lastBuildDate><atom:link href="/tags/fork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fork app subtree was the solution to upload specific folder</title>
+      <link>/post/fork-app-subtree-was-the-solution-to-upload-specific-folder/</link>
+      <pubDate>Sun, 19 Jul 2020 15:41:04 +0800</pubDate>
+      
+      <guid>/post/fork-app-subtree-was-the-solution-to-upload-specific-folder/</guid>
+      <description>Git was super difficult for me. but it took the time to get used with, inevitably. The matter of fact is that I needed to upload public folder which is the projection for this hugo blog. When I just able to upload the publicfolder to the gh-pages only, during wrapping up all git changes, I was the only way to seperately manage the hugo blog well. the right way was</description>
+    </item>
+    
+  </channel>
+</rss>

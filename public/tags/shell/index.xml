@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shell on </title>
+    <link>/tags/shell/</link>
+    <description>Recent content in Shell on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Aug 2020 08:59:44 +0900</lastBuildDate><atom:link href="/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Shell is like a playing game!</title>
+      <link>/post/shell-seems-a-playing-game/</link>
+      <pubDate>Tue, 25 Aug 2020 08:59:44 +0900</pubDate>
+      
+      <guid>/post/shell-seems-a-playing-game/</guid>
+      <description>Well, Still there are some things that I should have to keep learning. C Language, and shell are the things.
+I didn&amp;rsquo;t start yet about C lang, but The shell.
+Shell scripts seem very useful more than any other language. Javascript, Java, etc. They need for only specific environment. On Web, or on a program. But the shell, When you have any of O/S, as there is basically installed shell. You can get profits from the built-in shell programs.</description>
+    </item>
+    
+  </channel>
+</rss>
